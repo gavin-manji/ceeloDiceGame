@@ -1,5 +1,5 @@
 # ceeloDiceGame
-A simple Cee-lo Dice game done as a project. 
+A simple Cee-lo Dice game done as a project in Python programming language. 
 
 Here is a small briefing about the game;
 
